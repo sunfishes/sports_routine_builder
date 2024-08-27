@@ -16,3 +16,5 @@
 ***
 ### 최종 운동 보고
 운동이 끝나고 루틴 종료 버튼을 누르면 총 운동 시간, 반복 횟수 세트를 알려주는 창을 띄우고 루틴을 종료한다.
+
+![image](https://github.com/user-attachments/assets/14a48879-23b6-4fe7-85d5-b1fd23acf6e1)
