@@ -1,4 +1,4 @@
-# sports_routine_builder
+# 멋쟁이사자처럼 12기 중앙해커톤 출품작 fit-mate
 블록리 라이브러리를 통한 근력운동 루틴을 생성하는 페이지
 ![image](https://github.com/user-attachments/assets/6cda6a4b-df01-4b59-997c-75b6494b0a97)
 ***
